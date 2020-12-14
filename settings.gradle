@@ -1,0 +1,3 @@
+include ':simpleviewpager'
+include ':app'
+rootProject.name = "SimpleViewPager"
